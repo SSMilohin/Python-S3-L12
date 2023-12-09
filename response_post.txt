@@ -1,0 +1,19 @@
+Код ответа сервера: 405
+
+Заголовки ответа:
+{
+    "Date": "Sat, 09 Dec 2023 13:39:54 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "178",
+    "Connection": "keep-alive",
+    "Server": "gunicorn/19.9.0",
+    "Allow": "GET, OPTIONS, HEAD",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Credentials": "true"
+}
+
+Тело ответа:
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
